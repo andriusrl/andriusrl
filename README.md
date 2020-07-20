@@ -1,16 +1,22 @@
-### Hi there 👋
+# Andrius
 
-<!--
-**andriusrl/andriusrl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andrius-lazarino-82768b155/)](https://www.linkedin.com/in/andrius-lazarino-82768b155/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:andrius.rochalazarino@gmail.com)](mailto:andrius.rochalazarino@gmail.com)
 
-Here are some ideas to get you started:
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>Meu nome é Andrius, atualmente estou cursando o 6° semestre de engenharia de software e também finalizando outro curso fullstack de desenvolvimento web onde participei de diversos trabalhos em equipe.</p>
+<p>O desenvolvimento web me chama a atenção pela quantidade tecnologias e pessoas envolvidas.</p>
+
+## Linguagens e Bibliotecas: 
+
+- JavaScript, TypeScript, SQL, Git, HTML, CSS
+- React, Redux, Node, Express, Jest
+
+## Cloud: 
+
+- AWS: Lambda, Api-gateway, E2
+
+### > Portfólio [https://portfolio-andrius.vercel.app/](https://portfolio-andrius.vercel.app/)
