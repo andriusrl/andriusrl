@@ -17,6 +17,6 @@
 
 ## Cloud: 
 
-- AWS: Lambda, Api-gateway, E2
+- AWS: Lambda, Api-gateway, EC2
 
 ### > Portfólio [https://portfolio-andrius.vercel.app/](https://portfolio-andrius.vercel.app/)
