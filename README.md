@@ -19,4 +19,4 @@
 
 - AWS: Lambda, Api-gateway, EC2
 
-### > Portfólio [https://portfolio-andrius.vercel.app/](https://portfolio-andrius.vercel.app/)
+### > Portfólio [https://andriuslazarino.vercel.app/](https://andriuslazarino.vercel.app/)
