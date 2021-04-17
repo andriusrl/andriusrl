@@ -14,8 +14,4 @@
 - JavaScript, TypeScript, SQL, Git, HTML, CSS
 - React, Redux, Node, Express, Jest
 
-## Cloud: 
-
-- AWS: Lambda, Api-gateway, EC2
-
 ### > Portfólio [https://andriuslazarino.vercel.app/](https://andriuslazarino.vercel.app/)
