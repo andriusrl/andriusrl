@@ -7,7 +7,7 @@
 
 </div>
 
-<p>Meu nome é Andrius, atualmente estou cursando o 7° semestre de engenharia de software e recentemente finalizei um curso fullstack de desenvolvimento web onde participei de diversos trabalhos em equipe.</p>
+<p>Meu nome é Andrius, atualmente estou cursando o 8° semestre de engenharia de software e recentemente finalizei um curso fullstack de desenvolvimento web onde participei de diversos trabalhos em equipe.</p>
 
 ## Linguagens e Bibliotecas: 
 
