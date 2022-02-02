@@ -7,7 +7,7 @@
 
 </div>
 
-<p>Meu nome é Andrius, atualmente estou cursando o 8° semestre de engenharia de software e recentemente finalizei um curso fullstack de desenvolvimento web onde participei de diversos trabalhos em equipe.</p>
+<p>Meu nome é Andrius, atualmente estou cursando o 8° semestre de engenharia de software.</p>
 
 ## Linguagens e Bibliotecas: 
 
@@ -15,3 +15,10 @@
 - React, Redux, Node, Express, Jest
 
 ### > Portfólio [https://andriuslazarino.vercel.app/](https://andriuslazarino.vercel.app/)
+
+<div align="center">
+   <a href="https://github.com/andriusrl">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=andriusrl&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_color=ffffff00"/>
+    <img height="150em" src="http://github-readme-streak-stats.herokuapp.com?user=andriusrl&theme=tokyonight&hide_border=true" />
+  </a>
+</div>
