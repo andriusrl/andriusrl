@@ -22,3 +22,5 @@
 - React, Redux, Node, Express, Jest
 
 ### > Portfólio [https://andriuslazarino.vercel.app/](https://andriuslazarino.vercel.app/)
+
+<a href="https://app.daily.dev/andriusrl"><img src="https://api.daily.dev/devcards/4a5803731d344f08894f1144c911b7de.png?r=qru" width="400" alt="Andrius's Dev Card"/></a>
