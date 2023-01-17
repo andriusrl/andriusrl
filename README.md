@@ -11,7 +11,7 @@
 
 <div align="center">
    <a href="https://github.com/andriusrl">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=andriusrl&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_color=ffffff00"/>
+    <img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=andriusrl&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_color=ffffff00"/>
     <img height="150em" src="http://github-readme-streak-stats.herokuapp.com?user=andriusrl&theme=tokyonight&hide_border=true" />
   </a>
 </div>
