@@ -19,6 +19,6 @@
 ## Linguagens e Bibliotecas: 
 
 - JavaScript, TypeScript, SQL, Git, HTML, CSS
-- React, Redux, Node, Express, Jest
+- React, Redux, Node
 
 ### > Portfólio [https://andriuslazarino.vercel.app/](https://andriuslazarino.vercel.app/)
