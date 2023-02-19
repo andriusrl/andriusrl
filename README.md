@@ -7,8 +7,6 @@
 
 </div>
 
-<p>Meu nome é Andrius, atualmente estou cursando o 8° semestre de engenharia de software.</p>
-
 <div align="center">
    <a href="https://github.com/andriusrl">
     <img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=andriusrl&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_color=ffffff00"/>
