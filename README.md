@@ -16,5 +16,5 @@
 
 ## Linguagens e Bibliotecas: 
 
-- JavaScript, TypeScript, SQL, Git, HTML, CSS
-- React, Redux, Node
+- JavaScript, TypeScript, SQL, HTML, CSS
+- React, Nest
