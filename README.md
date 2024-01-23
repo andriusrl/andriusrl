@@ -14,6 +14,10 @@
   </a>
 </div>
 
+<div align="center">
+  <a href="https://app.daily.dev/andriusrl"><img src="https://api.daily.dev/devcards/4a5803731d344f08894f1144c911b7de.png?r=xjd" width="400" alt="Andrius's Dev Card"/></a>
+</div>
+
 ## Linguagens e Bibliotecas: 
 
 - JavaScript, TypeScript, SQL, HTML, CSS
